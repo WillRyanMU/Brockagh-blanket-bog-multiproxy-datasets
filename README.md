@@ -1,0 +1,1 @@
+This folder contains the processed datasets used in the multiproxy palaeoclimate reconstruction of Brockagh Mountain blanket bog in County Wicklow, Ireland. Not included is the aCAR dataset and Age Depth model results as the as they were based on data generated in previous palaeoenvironmental work outside of this paper.  
